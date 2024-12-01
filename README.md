@@ -38,37 +38,7 @@ This project focuses on performing ETL (Extract, Transform, Load) operations on 
 
 ---
 
-## **Setup Instructions**
-1. **Prerequisites**:
-   - Install Python 3.7 or later.
-   - Install required libraries using:
-     ```bash
-     pip install -r requirements.txt
-     ```
-     *(Create a `requirements.txt` file with required libraries: `requests`, `beautifulsoup4`, `pandas`, `numpy`)*
 
-2. **Data Sources**:
-   - Ensure `exchange_rate.csv` is in the same directory as the script.
-   - Exchange rate CSV format:
-     ```
-     Currency,Rate
-     GBP,0.74
-     EUR,0.84
-     INR,73.54
-     ```
-
-3. **Run the Script**:
-   - Execute the Python script:
-     ```bash
-     python etl_banks.py
-     ```
-
-4. **Output**:
-   - A CSV file `Largest_banks_data.csv` is generated with the processed data.
-   - Data is stored in an SQLite database `Banks.db`.
-   - Logs are saved in `code_log.txt`.
-
----
 
 ## **Project Outputs**
 1. **CSV File**:
@@ -95,7 +65,4 @@ This project focuses on performing ETL (Extract, Transform, Load) operations on 
 - Wikipedia for the archived page on the largest banks.
 - Python and its community for the powerful libraries.
 
----
 
-## **License**
-This project is open-source and available under the MIT License.
