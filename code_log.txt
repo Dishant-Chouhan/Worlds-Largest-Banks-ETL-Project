@@ -1,0 +1,20 @@
+2024-08-13 08:56:16.542153 : Preliminaries complete. Initiating ETL process
+2024-08-13 08:56:16.542153 : Starting data extraction
+2024-08-13 09:10:29.257530 : Preliminaries complete. Initiating ETL process
+2024-08-13 09:10:29.257530 : Starting data extraction
+2024-08-13 09:11:24.426100 : Preliminaries complete. Initiating ETL process
+2024-08-13 09:11:24.426100 : Starting data extraction
+2024-08-13 09:20:17.173921 : Preliminaries complete. Initiating ETL process
+2024-08-13 09:21:29.018913 : Preliminaries complete. Initiating ETL process
+2024-08-13 09:28:22.039719 : Preliminaries complete. Initiating ETL process
+2024-08-13 09:33:35 : Preliminaries complete. Initiating ETL process
+2024-Aug-13-09:38:26 : Preliminaries complete. Initiating ETL process
+2024-Aug-13-09:38:28 : Data extraction complete. Initiating Transformation process
+2024-Aug-13-09:44:09 : Preliminaries complete. Initiating ETL process
+2024-Aug-13-09:44:28 : Data extraction complete. Initiating Transformation process
+2024-Aug-13-09:44:28 : Data transformation complete. Initiating Loading process
+2024-Aug-13-09:44:28 : Data saved to CSV file
+2024-Aug-13-09:44:28 : SQL Connection initiated
+2024-Aug-13-09:44:28 : Data loaded to Database as a table, Executing queries
+2024-Aug-13-09:44:28 : Process Complete
+2024-Aug-13-09:44:28 : Server Connection closed
